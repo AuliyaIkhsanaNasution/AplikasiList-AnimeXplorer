@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">AnimeXplorer</string>
+    <string name="animexplore">AnimeXplorer</string>
+    <string name="judul_anime">Judul Anime</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="episode">Episode</string>
+    <string name="data_genre">data_genre</string>
+    <string name="studio">Studio</string>
+    <string name="duration">Duration</string>
+    <string name="data_episode">data_episode</string>
+    <string name="data_duration">data_duration</string>
+    <string name="data_studio">data_studio</string>
+    <string name="label_synopsis">Synopsis</string>
+    <string name="profile">About</string>
+    <string name="auliyanasti06_gmail_com">auliyanasti06@gmail.com</string>
+    <string name="auliya_ikhsana_nasution">Auliya Ikhsana Nasution</string>
+    <string name="share">share</string>
+
+    <string-array name="data_name">
+        <item>Oshi no Ko 2nd Season</item>
+        <item>Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san</item>
+        <item>Kami no Tou: Ouji no Kikan</item>
+        <item>Shikanoko Nokonoko Koshitantan</item>
+        <item>Tsue to Tsurugi no Wistoria</item>
+        <item>Make Heroine ga Oosugiru!</item>
+        <item>Isekai Shikkaku</item>
+        <item>Gimai Seikatsu</item>
+        <item>Isekai Suicide Squad</item>
+        <item>Fairy Tail: 100-nen Quest</item>
+        <item>Giji Harem</item>
+        <item>Hazurewaku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin suru made</item>
+        <item>Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai</item>
+        <item>Nige Jouzu no Wakagimi</item>
+        <item>Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>With the help of producer Masaya Kaburagi, Aquamarine Aqua Hoshino and Kana Arima have landed the roles of Touki and Tsurugi in Lala Lai Theatrical Company stage adaptation of the popular manga series Tokyo Blade. Co starring with them is Aqua girlfriend, Akane Kurokawa, who plays Touki fiance, Princess Saya. Due to the fanbase preferring Tsurugi as Touki love interest, Saya has made fewer and fewer appearances in the manga, making it difficult for Akane to fully immerse herself in the role. Her struggles are compounded by differences between the plays script and the original work differences that also frustrate Tokyo Blade author, Abiko Samejima. Aqua, however, is more concerned with his personal goals than he is with the play. He has only one objective in mind to grow closer to director Toshirou Kindaichi and find out what he knows about Aqua mother, Ai </item>
+        <item>Seirei Academy is a prestigious school attended by the very best students in Japan. Alisa Mikhailovna Alya Kujou, the half-Russian and half-Japanese treasurer of the school student council, is known for her intelligence, stunning looks, and rigid personality. Contrasting her near-flawless persona, Alya unmotivated classmate Masachika Kuze slacks off during lessons and seems to show no interest in her.Initially irritated, Alya gradually becomes more intrigued by Masachika and starts expressing her affection for him in Russian. However, she is oblivious to his secret—he understands the language fluently! Due to a childhood friend who was temporarily staying in Japan, Masachika has been studying Russian in hopes of reuniting with her.As the two spend more time together, the playful and eccentric relationship between them quickly deepens. In the meantime, both must learn to navigate their new growing feelings for one another</item>
+        <item>On the 20th floor of the Tower, the regulars who have been permitted to enter have to undertake arduous and extremely expensive tests to rank up. Most abandon hope and choose to stay where they are—but not Ja Wangnan.Wangnan is determined to reach the top and become the king of the Tower. However, he is weak and has repeatedly failed the exam, with debt collectors tailing him. In desperation, he attempts the exam one more time, only to encounter a mysterious and powerful individual Jyu Viole Grace, a member of the crime syndicate FUG.Cursing his rotten luck, Wangnan has no choice but to form alliances with strong people, including Viole—who still refuses to be part of any team. Amid a dire situation, Wangnan must find a way to change Viole mind to finally advance past the 20th floor, or he will never get a chance to build his legacy</item>
+        <item>Torako Koshi is the epitome of perfection. With her peerless beauty, top-notch grades, and position as student council president, her popularity in school is unrivaled. However, she harbors a dark secret she was a delinquent back in middle school and this is something she conceals to the best of her abilities. Unfortunately, when she meets the mysterious deer girl Noko Shikanoko, Torako hidden shame is constantly on the precipice of being exposed due to Shikanoko rather weird antics.  To maintain the reputation she worked so hard for, Torako must go along with Shikanoko  whims, even going so far as to become president of the newly established Deer Club.All her efforts will be rewarded if she can prevent the menacing doe from accidentally blurting out damaging details about her personal history that will undoubtedly unleash Torako greatest nightmare. </item>
+        <item>Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that werent enough, he finds himself putting his sword skills to the test against a bullying professor.</item>
+        <item>Despite not understanding much about fleeting teen romance, first-year high school student Kazuhiko Nukumizu still wonders how he would react if his life were to be turned into a love story. Regardless, as a self-proclaimed ,background character, Nukumizu is satisfied continuing his life as an introvert with a negligible social life. However, he suddenly finds himself too close to the spotlight when he witnesses his popular classmate Anna Yanami be rejected by her childhood friend in the middle of a family restaurant. While Nukumizu wishes he could just forget what he saw and move on, Anna ends up forcefully confiding herself in Nukumizu, lamenting her status as a childhood friend fated to have her beloved stolen. As he becomes dragged into Anna situation, Nukumizu soon gets caught up in the relationship drama of two more girls Lemon Yakishio, an outgoing member of the track and field club; and Chika Komari, a shy member of the literature club.Now thrust out of his comfort zone, Nukumizu finds himself a major character in the lives of too many losing heroines. </item>
+        <item>Just as the famous writer Sensei is about to accomplish his life ambition and commit double suicide with his lover Sacchan, he is hit by a truck and transported to another world. Deemed an adventurer by the local priestess Annette, Sensei is given the daunting mission of slaying the demon king. Refusing to play into his new role, Sensei decides his efforts are better served looking for Sacchan in the hope that she is somewhere in this new world.Early on in his journey, Sensei crosses paths with the martial artist Tama and unexpectedly saves her from mortal peril. Grateful for his actions, Tama decides to escort him. The pair are soon joined by Annette who, seduced by the writer strong personality, has sworn to protect Sensei life.as the unlikely trio wander the dangerous, monster-infested lands, they soon realize that human beings might be the true threats to the peace of the world—and Sensei might be the only one with the power to stop them.</item>
+        <item>Yuuta Asamura gets a new stepsister after his father remarries, Saki Ayase, who happens to be the number one beauty of the school year. They promise each other not to be too close, not to be too opposing, and to simply keep a vague and comfortable distance, having learned important values about men and women relationships from their parents previous ones.Saki, who has worked alone for the sake of her family, does know how to properly rely on others, whereas Yuuta is unsure of how to truly treat her. Standing on fairly equal ground, these two gradually learn the comfort of living together.Their relationship progresses from strangers to friends as the days pass. This is a story that may one day lead to love</item>
+        <item>He Joker and his best girl, Harley Quinn, are tearing through the streets of Gotham with sacks full of cash and the law in hot pursuit. Unfortunately for them, though the jester manages to escape, the night ends with Harley being captured by a mysterious, katana wielding woman.Meanwhile, Amanda Waller, the head of the government security organization A.R.G.U.S., has commandeered a team of supervillains for a ruthless mission into another world. After losing contact with the first suicide squad sent through the portal, Amanda sends Deadshot, Peacemaker, Clayface, King Shark, and Harley as replacements. However, shortly after entering the portal, their helicopter crashes in the middle of a battle between horse-mounted troops and vicious orcs.With all of the accompanying A.R.G.U.S. members dead on impact, the villains break free of their shackles and rampage through the army of orcs, unwittingly aiding the human soldiers only to be rewarded with imprisonment. Now bound by magic infused shackles, Harley and company must hurry back to the portal they came from, or else the bombs A.R.G.U.S. implanted in their necks will detonate</item>
+        <item>For over one hundred years, a special quest has been waiting for a wizard skilled enough to complete it. On the northern continent of Guiltina, there are five immensely powerful Dragon Gods who possess great destructive force that can only be quelled by sealing them away. Natsu Dragneel and his friends from the Fairy Tail guild Lucy Heartfilia, Gray Fullbuster, Erza Scarlet, Wendy Marvell, and the exceeds Happy and Charles consider this the perfect challenge to take on.The Fairy Tail mages are not the only ones searching for the Dragon Gods. Diablo, a guild exclusive for Dragon Eaters, seeks to enhance their Dragon Slayer magic by devouring the dragons. Meanwhile, Fairy Tail newest addition, Touka, appears to be hiding something sinister from her new companions and her secrets may bring disaster to the guild while its strongest wizards are away</item>
+        <item>Eiji Kitahama has a dream shared by many high school guys to be popular and have a harem of girls fawning over him. Luckily for him, his new junior in the drama club, Rin Nanakura, has decided to help him realize this wish. Using her impressive acting abilities, she takes on many personalities, from teasing to calm and collected, to play characters in Eiji simulated harem.As her connection with Eiji deepens, Rin expands her repertoire, quickly swapping between characters while enjoying high school life together in the club. Through her acting, the real Rin Nanakura tries her best to win Eiji heart</item>
+        <item>When loner Touka Mimori is summoned to another world alongside his classmates, he obtains the power to inflict status ailments, such as paralysis or poison, on his enemies. Unfortunately for him, skills of this nature are considered useless due to their low success rate, and Touka is thus assigned the title of E rank hero. Things take a further turn for the worse when Vicius, the goddess who summoned the class, reveals that the lowest ranked hero will be disposed of so that they do not hinder those with greater talent.Banished to a notoriously dangerous area, Touka comes face to face with death after being cornered by a minotaur-like creature. In a desperate attempt to survive, he uses his supposedly worthless skill only to quickly realize that it works almost every time. Armed with the ability to render the monsters standing in his way completely helpless, Touka resolves to track down the goddess that tossed him aside and exact his revenge</item>
+        <item>The Kingdom of Clays faces a dire crisis an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom downfall. The ensuing conflict will shape the face of the continent for centuries to come, but Noor does have a clue about any of that! Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can Parry thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer! Our hero road to making his dream come true will be long and arduous but if there one thing Noor not afraid of, its some good ol fashioned hard work</item>
+        <item>Tokiyuki Houjou, a carefree eight-year-old noble, is content with the serene life in Kamakura and shows little regard for the serious responsibilities that come with his eventually succeeding his father as the next shogun. Instead of dedicating himself to rigorous training in swordsmanship or archery, Tokiyuki excels in the art of evasion, skillfully dodging his advisors and discovering perfect hiding spots. However, his peaceful existence is shattered when a sudden coup brutally wipes out his clan.Overwhelmed with guilt for being the sole survivor, Tokiyuki contemplates joining his family in death. However, his fate takes an abrupt turn when the enigmatic priest Yorishige Suwa suddenly shoves him onto a battlefield. Yorishige, who prophesies that Tokiyuki will one day become a great hero, leaves the boy with no choice but to navigate his way free of enemy soldiers. As Tokiyuki struggles to survive against these foes, he finds a new thrill in raising the stakes of his usual hide-and-seek games.With a renewed sense of purpose and the promise of powerful allies from Yorishige, Tokiyuki vows to avenge his family not through his capability to fight, but through his extraordinary talent for running away</item>
+        <item>Determined to pursue his glorious childhood dreams, 30-year-old Rick Gladiatol, a modest clerk in the adventurers guild, is offered a once in a lifetime opportunity after he fatefully encounters the dark elf Reanette Elfelt. Reanette happens to be an elite adventurer of the legendary party Orichalcum Fist, whose members welcome Rick under the condition that he follow a Spartan training.Two years later, Rick is finally ready to take the E-Rank exam officially qualifying him as an adventurer. However, raw magical power can only be developed until one turns 20. As such, Rick faces the general hostility of fellow participants and examiners alike, leaving him no choice but to show the world that his hellish training has turned him into an invincible warrior.</item>
+    </string-array>
+
+    <string-array name="data_episode">
+        <item>13 Episode</item>
+        <item>12 Episode</item>
+        <item>unknown Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>10 Episode</item>
+        <item>unknown Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+        <item>12 Episode</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama,Supernatural</item>
+        <item>Comedy,Romance</item>
+        <item>Action,Adventure</item>
+        <item>Comedy</item>
+        <item>Action,Adventure</item>
+        <item>Komedi,Romantis</item>
+        <item>Comedy,Fantasy</item>
+        <item>Romance</item>
+        <item>Aksi,Fantasi</item>
+        <item>Action,Adventure</item>
+        <item>Comedy</item>
+        <item>Petualangan,Fantasi</item>
+        <item>Petualangan,Fantasi</item>
+        <item>Adventure,Comedy</item>
+        <item>Action, Fantasi</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>25 min.per ep.</item>
+        <item>24 min.per ep.</item>
+        <item>23 min.</item>
+        <item>23 min.per ep.</item>
+        <item>23 min.per ep.</item>
+        <item>24 menit per ep.</item>
+        <item>23 min.per ep.</item>
+        <item>23 min.per ep.</item>
+        <item>24 menit per ep.</item>
+        <item>24 menit per ep.</item>
+        <item>23 min. per ep.</item>
+        <item>23 min. per ep.</item>
+        <item>24 menit per ep.</item>
+        <item>24 menit per ep.</item>
+        <item>24 menit per ep.</item>
+    </string-array>
+
+    <string-array name="data_studio">
+        <item>Doga Kobo</item>
+        <item>Doga Kobo</item>
+        <item>The Answer Studio</item>
+        <item>Wit Studio</item>
+        <item>Actas,Bandai Namco Pictures</item>
+        <item>A-1 Pictures</item>
+        <item>AtelierPontdarc</item>
+        <item>Studio Deen</item>
+        <item>Wit Studio</item>
+        <item>J.C.Staff</item>
+        <item>Nomad</item>
+        <item>Seven Arcs</item>
+        <item>OLM</item>
+        <item>CloverWorks</item>
+        <item>Perusahaan Yumeta</item>
+    </string-array>
+
+    <string-array name="data_photos">
+        <item>https://thumbor.prod.vidiocdn.com/4s7op1xKB__StsnlrNEnzsYJgKE=/filters:quality(70)/vidio-media-production/uploads/image/source/10180/ef522a.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1825/142258.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1107/143536.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1084/144617.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1281/144104.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1332/143513.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1252/143457.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1420/143707.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1644/142052.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1087/144083.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1607/143547.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1914/143630.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1747/143101.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1386/140401.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1212/144711.jpg</item>
+    </string-array>
+</resources>

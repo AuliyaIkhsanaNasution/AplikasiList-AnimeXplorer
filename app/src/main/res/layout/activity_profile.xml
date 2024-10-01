@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity"
+    android:background="@color/crem">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="#021a2a"
+        android:drawablePadding="4dp"
+        android:elevation="1dp"
+        android:padding="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- Nama Profil -->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/iv_profile_picture"
+        android:layout_width="220dp"
+        android:layout_height="264dp"
+        android:layout_marginTop="244dp"
+        android:elevation="5dp"
+        android:src="@drawable/profil"
+        app:civ_border_color="@color/navy"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toTopOf="@id/tv_profile_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/auliya_ikhsana_nasution"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        app:layout_constraintTop_toBottomOf="@id/iv_profile_picture"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Email Profil -->
+    <TextView
+        android:id="@+id/tv_profile_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/auliyanasti06_gmail_com"
+        android:textSize="18sp"
+        android:textColor="@color/navy"
+        app:layout_constraintTop_toBottomOf="@id/tv_profile_name"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:paddingBottom="30dp"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

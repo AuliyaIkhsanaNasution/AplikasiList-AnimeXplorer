@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AnimeXplorer" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <!-- Custom application theme -->
+    <style name="AppTheme" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryDark">@color/navy</item>
+        <item name="colorOnSecondary">@color/crem</item>
+        <item name="android:textColor">@color/crem</item>
+        <item name="popupMenuBackground">@color/navy</item>
+    </style>
+
+    <style name="CustomPopupMenu" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:popupBackground">@color/navy</item>
+        <item name="android:textColor">@color/crem</item>
+    </style>
+
+
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize splash theme -->
+    </style>
+
+    <style name="Theme.AnimeXplorer" parent="Base.Theme.AnimeXplorer">
+
+    </style>
+
+</resources>
